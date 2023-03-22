@@ -1,2 +1,1 @@
-# tic-tac-toe
-Simple Tic Tac Toe game with Python.
+Simple Tic Tac Toe game with Python and Pygame.
